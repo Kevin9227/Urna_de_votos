@@ -16,7 +16,7 @@ SET SAFETY OFF			&& Não avisa para sobreescrever um arquivo
 SET DEFAULT TO "C:\Users\joaquim.campos\Documents\GitHub\Urna_de_votos"
 
 *_SCREEN.Icon        = '\GRAFICOS\ICONES\FLGBRAZL.ICO'  
-_SCREEN.PICTURE     = "https://www.google.com/url?sa=i&url=http%3A%2F%2Fsite.agrmondimbasto.com%2Fassociacao-de-estudantes-processo-eleitoral-2020-2021%2F&psig=AOvVaw2J8imkAwtB5uWJcV1MH-9A&ust=1624723395716000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNCGyqSUs_ECFQAAAAAdAAAAABAO "  && Papel de parede
+_SCREEN.PICTURE     = "C:\Users\joaquim.campos\Documents\GitHub\Urna_de_votos\elei.jpg "  && Papel de parede
 _SCREEN.WINDOWSTATE = 2 	&& Executar maximizada
 
 DO FORM urna.scx
